@@ -5,18 +5,18 @@
 Me chamo Sérgio, tenho 18 anos e sou natural de São paulo. Concluí o ensino médio na Etec Jacinto Ferreia de Sá (Ourinhos-SP), com o curso técnico em Desenvolvimento de Sistemas. Atualmente estou cursando Analise e Desenvolvimento de Sistemas na Fatec Ourinhos.
 
 <p align="left">
-    <a href="https://github.com/Sérgio Frazon?tab=repositories&sort=stargazers">
+    <a href="https://github.com/sergio-frazon?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Sérgio Frazon?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/sergio-frazon?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Sérgio Frazon?tab=followers">
+    <a href="https://github.com/sergio-frazon?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Sérgio Frazon?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/sergio-frazon?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
