@@ -37,7 +37,7 @@
 ## Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=github,git,vscode,clion,figma,aftereffects,illustrator,netlify,notion,photoshop,trello" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,clion,figma,,notion," />
 </p> 
 
 
