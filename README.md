@@ -34,6 +34,13 @@
 
 ---
 
+## Ferramentas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=github,git,vscode,clion,figma,aftereffects,illustrator,netlify,notion,photoshop,trello" />
+</p> 
+
+
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
