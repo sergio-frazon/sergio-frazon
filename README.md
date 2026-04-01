@@ -37,8 +37,8 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergio-frazon&show_icons=true&theme=tokyonight&cache_seconds=30"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergio-frazon&layout=compact&theme=tokyonight&cache_seconds=30"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sergio-frazon&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sergio-frazon&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
