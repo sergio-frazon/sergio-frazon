@@ -43,7 +43,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-<p align="left">
+<p align="center">
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sergio-frazon&show_icons=true&theme=tokyonight"/>
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sergio-frazon&layout=compact&theme=tokyonight"/>
 </p>
