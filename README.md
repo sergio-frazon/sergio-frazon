@@ -1,77 +1,84 @@
-# 👨🏻‍💻 Sérgio Frazon
-
-**`Desenvolvedor FullStack`**
-
-Me chamo Sérgio, tenho 18 anos e sou natural de São paulo. Concluí o ensino médio na Etec Jacinto Ferreia de Sá (Ourinhos-SP), com o curso técnico em Desenvolvimento de Sistemas. Atualmente estou cursando Analise e Desenvolvimento de Sistemas na Fatec Ourinhos.
-
-<p align="left">
-    <a href="https://github.com/sergio-frazon?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/sergio-frazon?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/sergio-frazon?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/sergio-frazon?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<!-- TYPING EFFECT -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Sérgio+👨‍💻;Desenvolvedor+Full+Stack;Focado+em+conseguir+um+Estágio+🚀;Sempre+aprendendo+novas+tecnologias" />
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+# 👨‍💻 Sérgio Frazon
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+## 🚀 Desenvolvedor Full Stack | Em busca de Estágio
 
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
+🎯 Tenho 18 anos e sou natural de São Paulo.  
+🎓 Formado pela **Etec Jacinto Ferreira de Sá (Ourinhos - SP)** no curso técnico em **Desenvolvimento de Sistemas**.  
+📚 Atualmente cursando **Análise e Desenvolvimento de Sistemas** na **FATEC Ourinhos**.  
 
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
+💡 Sou apaixonado por tecnologia e estou em busca da minha **primeira oportunidade de estágio** na área de desenvolvimento.
 
+---
 
+## 🧠 Sobre mim
 
+- 💻 Focado em desenvolvimento web (Front-end e Back-end)  
+- 📚 Aprendizado contínuo e prática diária  
+- 🚀 Interesse em projetos reais e experiência profissional  
+- 🤝 Aberto a novas oportunidades e desafios  
 
-<br/>
-<br/>
+---
 
+## 🛠️ Tecnologias que utilizo
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php" />
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergio-frazon&show_icons=true&theme=tokyonight&cache_seconds=30"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergio-frazon&layout=compact&theme=tokyonight&cache_seconds=30"/>
+</p>
+
+---
+
+## 🚀 Projetos em destaque
+
+🔹 Em breve estarei adicionando meus principais projetos aqui!  
+🔹 Fique à vontade para explorar meus repositórios 👇  
+
+👉 https://github.com/SEU-USUARIO
+
+---
+
+## 📫 Contato
+
+<p align="center">
+  <a href="mailto:SEUEMAIL">
+    <img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/SEU-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🎯 Objetivo
+
+Busco uma oportunidade de **estágio em desenvolvimento** onde eu possa:
+
+✔ Aplicar meus conhecimentos na prática  
+✔ Aprender com profissionais experientes  
+✔ Evoluir como desenvolvedor  
+✔ Contribuir com soluções reais  
+
+---
+
+## ⚡ Diferenciais
+
+- 🧩 Conhecimento em lógica de programação  
+- 🌐 Experiência com desenvolvimento web  
+- 🎨 Noções de design e interface  
+- 📈 Facilidade de aprendizado e adaptação  
