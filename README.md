@@ -48,7 +48,7 @@
 🔹 Em breve estarei adicionando meus principais projetos aqui!  
 🔹 Fique à vontade para explorar meus repositórios 👇  
 
-👉 https://github.com/SEU-USUARIO
+👉 https://github.com/sergio-frazon
 
 ---
 
