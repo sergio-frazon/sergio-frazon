@@ -29,7 +29,7 @@
 ## 🛠️ Tecnologias que utilizo
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,dart" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,dart,mysql" />
 </p>
 
 ---
@@ -37,7 +37,7 @@
 ## Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=github,vscode,clion,figma,notion,githubcodespaces" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,clion,figma,notion" />
 </p> 
 
 
