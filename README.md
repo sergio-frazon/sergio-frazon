@@ -1,40 +1,33 @@
-# 👩🏻‍💻 Larissa Kich
+# 👨🏻‍💻 Sérgio Frazon
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Me chamo Sérgio Frazon, tenho 18 anos e sou natural de São Paulo. Concluí o ensino médio na ETEC Jacinto Ferreira de Sá (Ourinhos), com o curso técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC Ourinhos. Sou apaixonado por tecnologia e busco oportunidades para expandir meus conhecimentos e ingressar no mercado de trabalho.
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/sergio-frazon?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/sergio-frazon?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/sergio-frazon?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/sergio-frazon?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
-
+    <a href="https://www.instagram.com/fraz0nn?stkn=MWl1cGEyZW15ZW12cg==">
+        <img 
+            alt="Perfi" 
+            title="Me siga no Instagram" 
+             src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        />
+    </a>
+</p>
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -94,23 +87,7 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
+/> 
 <img 
     align="left" 
     alt="PHP" 
@@ -119,22 +96,7 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="Git" 
@@ -157,20 +119,11 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+<img
+  src="https://github-stats-extended.vercel.app/api?username=sergio-frazon&show_icons=true&theme=dark_github&locale=pt-br"
+  alt="Estatísticas de sergio-frazon no GitHub"
+/>
+<img
+  src="https://github-stats-extended.vercel.app/api/top-langs?username=sergio-frazon&langs_count=4&theme=dark_github&locale=pt-br"
+  alt="Linguagens mais utilizadas por sergio-frazon"
+/>
